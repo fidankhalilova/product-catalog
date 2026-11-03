@@ -1,0 +1,69 @@
+[
+  {
+    "id": "1",
+    "name": "Trail Backpack",
+    "category": "Outdoor",
+    "price": 89,
+    "popular": true,
+    "image": "https://picsum.photos/seed/p1/600/400",
+    "description": "30L pack with rain cover and padded straps."
+  },
+  {
+    "id": "2",
+    "name": "Insulated Bottle",
+    "category": "Outdoor",
+    "price": 25,
+    "popular": true,
+    "image": "https://picsum.photos/seed/p2/600/400",
+    "description": "Keeps drinks cold for 24 hours."
+  },
+  {
+    "id": "3",
+    "name": "Camping Lantern",
+    "category": "Outdoor",
+    "price": 34,
+    "image": "https://picsum.photos/seed/p3/600/400",
+    "description": "Rechargeable LED lantern, 3 brightness modes."
+  },
+  {
+    "id": "4",
+    "name": "Mechanical Keyboard",
+    "category": "Tech",
+    "price": 120,
+    "popular": true,
+    "image": "https://picsum.photos/seed/p4/600/400",
+    "description": "Hot-swappable switches, compact 75% layout."
+  },
+  {
+    "id": "5",
+    "name": "Wireless Mouse",
+    "category": "Tech",
+    "price": 45,
+    "image": "https://picsum.photos/seed/p5/600/400",
+    "description": "Ergonomic, 70-day battery life."
+  },
+  {
+    "id": "6",
+    "name": "USB-C Hub",
+    "category": "Tech",
+    "price": 59,
+    "image": "https://picsum.photos/seed/p6/600/400",
+    "description": "7-in-1 hub with HDMI and SD reader."
+  },
+  {
+    "id": "7",
+    "name": "Ceramic Mug",
+    "category": "Home",
+    "price": 14,
+    "image": "https://picsum.photos/seed/p7/600/400",
+    "description": "Handmade 350ml stoneware mug."
+  },
+  {
+    "id": "8",
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": 48,
+    "image": "https://picsum.photos/seed/p8/600/400",
+    "description": "Dimmable lamp with warm and cool modes."
+  }
+]

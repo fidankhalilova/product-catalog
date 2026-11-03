@@ -1,0 +1,42 @@
+[
+  {
+    "id": "r1",
+    "productId": "1",
+    "author": "Aisha",
+    "rating": 5,
+    "text": "Carried it for a week on the trail, zero complaints.",
+    "createdAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "r2",
+    "productId": "1",
+    "author": "Tural",
+    "rating": 4,
+    "text": "Comfortable, but the zipper feels a bit stiff.",
+    "createdAt": "2026-09-05T12:30:00.000Z"
+  },
+  {
+    "id": "r3",
+    "productId": "2",
+    "author": "Leyla",
+    "rating": 5,
+    "text": "Ice was still there the next day.",
+    "createdAt": "2026-09-10T08:15:00.000Z"
+  },
+  {
+    "id": "r4",
+    "productId": "4",
+    "author": "Murad",
+    "rating": 5,
+    "text": "Typing feel is excellent for the price.",
+    "createdAt": "2026-09-12T19:00:00.000Z"
+  },
+  {
+    "id": "r5",
+    "productId": "4",
+    "author": "Nigar",
+    "rating": 3,
+    "text": "Good keyboard, stock keycaps are meh.",
+    "createdAt": "2026-09-14T14:45:00.000Z"
+  }
+]
