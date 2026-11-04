@@ -1,7 +1,7 @@
 // Product detail (Server Component): shell renders first, slow sections stream in via Suspense.
 // import { Suspense } from "react";
 
-//testing
+//testinggggg∆
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getPopularIds, getProduct } from "@/lib/data";
